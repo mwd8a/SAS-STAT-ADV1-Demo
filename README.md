@@ -5,7 +5,7 @@ Advanced SAS Demo 1
 
 In this demonstration, we build a predictive linear regression model and test some variables for *effect modification* and *confounding*. The key SAS procedures used are PROC REG and PROC GLM. 
 
-The data set CHOL is created by running the code in **chol_raw.sas**. The varibles in this data set are given below
+The data set CHOL is created by running the code in **chol_raw.sas**. The variables in this data set are given below
  
 * **ID** for *Subject ID*
 * **AGE** for *Age*

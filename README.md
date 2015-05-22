@@ -1,5 +1,5 @@
-Advanced SAS Demo 1
-===================
+Advanced SAS Demo 1: Multilinear Regression and ANCOVA
+======================================================
 
 ## Overview
 
